@@ -1,0 +1,23 @@
+Attribute: pat
+Value: 1
+  Classification: 0
+Value: 2
+  Classification: 1
+Value: 3
+  Attribute: est
+  Value: 1
+    Classification: 0
+  Value: 2
+    Attribute: bar
+    Value: 0
+      Classification: 1
+    Value: 1
+      Classification: 0
+  Value: 3
+    Attribute: bar
+    Value: 0
+      Classification: 0
+    Value: 1
+      Classification: 1
+  Value: 4
+    Classification: 0
